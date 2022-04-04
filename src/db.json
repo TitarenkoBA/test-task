@@ -1,0 +1,97 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Admin",
+      "lastName": "Adminych",
+      "login": "admin",
+      "password": "admin",
+      "contacts": [
+        {
+          "id": 4,
+          "firstName": "asd",
+          "lastName": "fgh1",
+          "login": "fgg1"
+        },
+        {
+          "id": 5,
+          "firstName": "sdfsdsdfsdff",
+          "lastName": "dddd",
+          "login": ""
+        },
+        {
+          "id": 6,
+          "firstName": "adsfdf",
+          "lastName": "s",
+          "login": "ghghgh"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "firstName": "Reader",
+      "lastName": "Readerovich",
+      "login": "reader",
+      "password": "reader",
+      "contacts": [
+        {
+          "id": 1,
+          "firstName": "Mr. First",
+          "lastName": "Smith",
+          "login": "first"
+        },
+        {
+          "id": 1,
+          "firstName": "Mr. First",
+          "lastName": "Smith",
+          "login": "first"
+        },
+        {
+          "id": 1,
+          "firstName": "Mr. First",
+          "lastName": "Smith",
+          "login": "first"
+        },
+        {
+          "id": 1,
+          "firstName": "Mr. First",
+          "lastName": "Smith",
+          "login": "first"
+        },
+        {
+          "id": 1,
+          "firstName": "Mr. First",
+          "lastName": "Smith",
+          "login": "first"
+        },
+        {
+          "id": 1,
+          "firstName": "Mr. First",
+          "lastName": "Smith",
+          "login": "first"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "firstName": "Writer",
+      "lastName": "Writerovich",
+      "login": "writer",
+      "password": "writer",
+      "contacts": [
+        {
+          "id": 1,
+          "firstName": "Mr. First",
+          "lastName": "Smith",
+          "login": "first"
+        },
+        {
+          "id": 1,
+          "firstName": "Mr. First",
+          "lastName": "Smith",
+          "login": "first"
+        }
+      ]
+    }
+  ]
+}
